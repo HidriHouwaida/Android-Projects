@@ -12,6 +12,6 @@ A comprehensive health application that calculates BMI, provides personalized di
 - Custom meal plans based on BMI
 - Healthy recipe suggestions
 
-### 💪 General Fitness
+### 🏋️ General Fitness
 - Curated exercise library for all fitness levels
 - Full-body workout routines
