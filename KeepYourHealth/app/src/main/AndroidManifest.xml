@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.imc">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:icon="@drawable/k"
+        android:label="Keep Your Health"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.IMC">
+        <activity android:name=".Chronometre" />
+        <activity android:name=".exercicecourse" />
+        <activity android:name=".exercicetirement" />
+        <activity android:name=".exercicequilibre" />
+        <activity android:name=".Exempleexercicemusculation" />
+        <activity android:name=".exercicemusculation" />
+        <activity android:name=".Exempleexercicecardio" />
+        <activity android:name=".ExerciceCardiovasculaire" />
+        <activity android:name=".ExerciceSport" />
+        <activity android:name=".MenuSport" />
+        <activity android:name=".Calendrier" />
+        <activity android:name=".MotDepasse" />
+        <activity android:name=".MainActivity6" />
+        <activity android:name=".MainActivity5" />
+        <activity android:name=".MainActivity4" />
+        <activity android:name=".MainActivity3" />
+        <activity android:name=".calculpoid" />
+        <activity android:name=".caluculimc" />
+        <activity android:name=".ProgrammeSansGlutan" />
+        <activity android:name=".ProgrammeDetox" />
+        <activity android:name=".ProgrammeAntiCholosterol" />
+        <activity android:name=".ProgrammeVegeterian" />
+        <activity android:name=".ProgrammeMedeterian" />
+        <activity android:name=".RegimeMedeterian" />
+        <activity android:name=".RegimeVegeterian" />
+        <activity android:name=".RegimeSansCholosterol" />
+        <activity android:name=".RegimeDetox" />
+        <activity android:name=".RegimeSansSel" />
+        <activity android:name=".RegimeDash" />
+        <activity android:name=".ProgrammeDah" />
+        <activity android:name=".AboutUs" />
+        <activity android:name=".Search" />
+        <activity android:name=".Lougout" />
+        <activity android:name=".RegimeType" />
+        <activity android:name=".Regime" />
+        <activity android:name=".IMC" />
+        <activity android:name=".Programme" />
+        <activity android:name=".SignUp" />
+        <activity android:name=".SiginIn" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
