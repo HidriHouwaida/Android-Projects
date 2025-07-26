@@ -15,4 +15,3 @@ A comprehensive health application that calculates BMI, provides personalized di
 ### 💪 General Fitness
 - Curated exercise library for all fitness levels
 - Full-body workout routines
-- Exercise demonstrations with proper form guidance
