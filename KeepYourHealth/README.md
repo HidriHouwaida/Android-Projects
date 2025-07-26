@@ -7,14 +7,12 @@ A comprehensive health application that calculates BMI, provides personalized di
 ### 📊 BMI Analysis
 - Accurate BMI calculation
 - Weight status classification (Underweight, Normal, Overweight, Obese)
-- Visual progress tracking
 
 ### 🍎 Personalized Nutrition
 - Custom meal plans based on BMI
-- Calorie recommendations
 - Healthy recipe suggestions
 
-### 🏋️ Exercise Recommendations
-- Workout routines tailored to your BMI
-- Exercise demonstrations
-- Progress tracking
+### 💪 General Fitness
+- Curated exercise library for all fitness levels
+- Full-body workout routines
+- Exercise demonstrations with proper form guidance
