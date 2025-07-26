@@ -7,7 +7,7 @@ A collection of diverse Android applications demonstrating various capabilities 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
 | [⏱️ SimpleStopwatch](SimpleStopwatch/) | Basic chronometer app | Java, Chronometer | ✅ Complete |
-| [📚 ElectroLearn](ElectroLearn/) | Embedded systems learning platform | Java,  | ✅ Complete |
+| [📚 ElectroLearn](ElectroLearn/) | Embedded systems learning platform | Java  | ✅ Complete |
 | [🏥 KeepYourHealth](KeepYourHealth/) | BMI calculator with diet/exercise plans | Kotlin| ✅ Complete |
 | [🔧 ElectroRepair](ElectroRepair/) | Electronic device repair tracking system | Java, Firebase | ✅ Complete |
 
